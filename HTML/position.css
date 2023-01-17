@@ -1,0 +1,30 @@
+ .div1{
+     text-align: center;
+}
+.div2{
+    text-align: center;
+}
+.div3{
+    text-align: center;
+}
+.div4{
+    text-align: center;
+}
+/* .div2{
+    position: absolute;
+    background-color: aqua;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    width: 400px;
+    display: flex;
+    text-align: center;
+    margin-left: 400px;
+
+    } */ 
+.main{
+    display: flex;
+
+}
+.fa-thumbs-up{
+    color: green;transition: 0ms;
+}

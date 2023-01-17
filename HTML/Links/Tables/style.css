@@ -1,0 +1,11 @@
+table{
+    
+    text-align: center;
+    width: 500px;
+    margin: 40px auto;
+    padding: 4px;
+    border-spacing: 5px 5px;
+}
+tr:hover{
+background-color:seagreen ;
+}
